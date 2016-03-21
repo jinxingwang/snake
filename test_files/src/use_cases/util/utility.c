@@ -1,0 +1,3 @@
+void util_method() {
+}
+
